@@ -7,4 +7,7 @@ Setup an account on Starknet along with the required environment variables as de
 # Local Testing
 In the tests folder modify tests.py to perform any unit tests locally. To compile Cairo code, find instructions here - https://starknet.io/docs/quickstart.html#quickstart 
 
-
+# TBD
+1. Scoring within Starknet contract
+2. Player pass functionality
+3. GUI
